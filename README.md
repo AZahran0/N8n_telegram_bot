@@ -1,6 +1,8 @@
 # Telegram RAG Bot — Python
 
 Python equivalent of the n8n `Telegram_Rag_bot` workflow.
+<img width="1720" height="835" alt="image" src="https://github.com/user-attachments/assets/1b4f5dc2-79ab-485a-8db9-e4f55e22d9c0" />
+
 
 ## File Structure
 
